@@ -19,7 +19,7 @@ To get the best viewing experience please DOWNLOAD the video :)
 
 ## What is Gaze Interaction?
 
-Gaze-Interaction is the process of triggering an event within an application simply by focusing the camera to a trigger-enabled object wihtin the scene. In this case, if you focus the focal point of the camera to either the eleplant or rhino, an animated textbox is triggered to appear. 
+Gaze-Interaction is the process of triggering an event within an application simply by focusing the camera to a trigger-enabled object wihtin the scene. In this case, if you focus the focal point of the camera to either the eleplant or rhino, an animated textbox is triggered to appear. Utilizing gaze-interaction allows users a more intuitive and immersive expereince as no physical touch inputs are needed. It is quite handy to use especially in mobile AR applications. 
 
 
 
