@@ -13,7 +13,7 @@ This repo provides source files for a simple AR Android Application. The system 
 
 A demo video can be found following this link: 
 
-https://drive.google.com/file/d/1Bg9U_OgEPRTl49lA_KHYx2-wHre3RkPf/view?usp=sharing
+[https://drive.google.com/file/d/1Bg9U_OgEPRTl49lA_KHYx2-wHre3RkPf/view?usp=sharing](https://drive.google.com/file/d/1Bg9U_OgEPRTl49lA_KHYx2-wHre3RkPf/view?usp=sharing)
 
 To get the best viewing experience please DOWNLOAD the video :)
 
